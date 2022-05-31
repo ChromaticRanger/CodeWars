@@ -1,0 +1,24 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "Some of my Code Wars solutions",
+  "main": "",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChromaticRanger/CodeWars.git"
+  },
+  "author": "M D Stickley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChromaticRanger/CodeWars/issues"
+  },
+  "homepage": "https://github.com/ChromaticRanger/CodeWars#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "nyc": "^15.1.0"
+  }
+}
