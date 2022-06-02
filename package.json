@@ -4,7 +4,8 @@
   "description": "Some of my Code Wars solutions",
   "main": "",
   "scripts": {
-    "test": "mocha tests"
+    "test": "mocha tests",
+    "coverage": "nyc npm run test"
   },
   "repository": {
     "type": "git",
