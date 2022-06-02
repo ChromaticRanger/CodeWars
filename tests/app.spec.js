@@ -1,5 +1,4 @@
 
-const assert = require('assert')
 const { expect } = require('chai')
 const { add } = require('../app')
 
