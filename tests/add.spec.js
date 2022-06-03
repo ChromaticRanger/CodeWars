@@ -1,6 +1,6 @@
 
 const { expect } = require('chai')
-const { add } = require('../JavaScript/app')
+const { add } = require('../JavaScript/add')
 
 describe('the add function', function() {
 
